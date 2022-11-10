@@ -1,3 +1,4 @@
 # bootstrap-boilerplate
 
-This is the stater files for bitwise mobile-friendly class
+This is the starter files for bitwise mobile-friendly class.
+
